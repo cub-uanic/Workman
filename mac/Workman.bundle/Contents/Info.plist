@@ -8,8 +8,19 @@
 	<string>Workman</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
+	<key>KLInfo_WCE</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.workman.wce</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-US</string>
+	</dict>
 	<key>KLInfo_Workman</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.workman.workman</string>
 		<key>TISIntendedLanguage</key>
@@ -17,13 +28,26 @@
 	</dict>
 	<key>KLInfo_Workman Extended</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.workman.workmanextended</string>
 		<key>TISIntendedLanguage</key>
 		<string>en-US</string>
 	</dict>
+	<key>KLInfo_Workman-Dead</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.workman.workman-dead</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-US</string>
+	</dict>
 	<key>KLInfo_Workman-IO</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.workman.workman-io</string>
 		<key>TISIntendedLanguage</key>
@@ -31,6 +55,8 @@
 	</dict>
 	<key>KLInfo_Workman-P</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.workman.workman-p</string>
 		<key>TISIntendedLanguage</key>
@@ -38,15 +64,10 @@
 	</dict>
 	<key>KLInfo_Workman-P Extended</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.workman.workman-pextended</string>
-		<key>TISIntendedLanguage</key>
-		<string>en-US</string>
-	</dict>
-	<key>KLInfo_Workman-Dead</key>
-	<dict>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.workman.workman-dead</string>
 		<key>TISIntendedLanguage</key>
 		<string>en-US</string>
 	</dict>
