@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.4.0.296 on 2019-11-20 at 03:22 (GMT+2)-->
+<!--Last edited by Ukelele version 3.4.0.296 on 2019-11-20 at 04:04 (GMT+2)-->
 <!--Created by Ukelele version 2.2.3 on 2012-11-14 at 22:15 (EST)-->
 <keyboard group="0" id="13197" name="WCE" maxout="1">
     <layouts>
@@ -71,7 +71,7 @@
             <key code="24" output="="/>
             <key code="25" output="("/>
             <key code="26" output="&#x0026;"/>
-            <key code="27" output="-"/>
+            <key code="27" output="["/>
             <key code="28" output="*"/>
             <key code="29" output=")"/>
             <key code="30" output="\"/>
@@ -86,7 +86,7 @@
             <key code="39" output="-"/>
             <key code="40" action="14"/>
             <key code="41" action="15"/>
-            <key code="42" output="\"/>
+            <key code="42" output="]"/>
             <key code="43" output=","/>
             <key code="44" output="/"/>
             <key code="45" output="k"/>
@@ -183,7 +183,7 @@
             <key code="24" output="+"/>
             <key code="25" output="9"/>
             <key code="26" output="7"/>
-            <key code="27" output="_"/>
+            <key code="27" output="{"/>
             <key code="28" output="8"/>
             <key code="29" output="0"/>
             <key code="30" output="|"/>
@@ -198,7 +198,7 @@
             <key code="39" output="_"/>
             <key code="40" action="7"/>
             <key code="41" action="8"/>
-            <key code="42" output="|"/>
+            <key code="42" output="}"/>
             <key code="43" output="&#x003C;"/>
             <key code="44" output="?"/>
             <key code="45" output="K"/>
