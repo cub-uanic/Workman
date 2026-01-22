@@ -5,69 +5,72 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.workman</string>
 	<key>CFBundleName</key>
-	<string>Workman</string>
+	<string>WRFGGC</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
+	<key>KLInfo_Canary Ortho</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.workman.canaryortho</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-US</string>
+	</dict>
+	<key>KLInfo_Focal Ortho</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.workman.focalortho</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-US</string>
+	</dict>
+	<key>KLInfo_Gallium Ortho</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.workman.galliumortho</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-US</string>
+	</dict>
+	<key>KLInfo_Graphite Ortho</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.workman.graphiteortho</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-US</string>
+	</dict>
+	<key>KLInfo_Ru-Vestnik</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.workman.ru-vestnik</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru</string>
+	</dict>
 	<key>KLInfo_WCE</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.workman.wce</string>
-		<key>TISIntendedLanguage</key>
-		<string>en-US</string>
-	</dict>
-	<key>KLInfo_Workman</key>
-	<dict>
-		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.workman.workman</string>
-		<key>TISIntendedLanguage</key>
-		<string>en-US</string>
-	</dict>
-	<key>KLInfo_Workman Extended</key>
-	<dict>
-		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.workman.workmanextended</string>
-		<key>TISIntendedLanguage</key>
-		<string>en-US</string>
-	</dict>
-	<key>KLInfo_Workman-Dead</key>
-	<dict>
-		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.workman.workman-dead</string>
-		<key>TISIntendedLanguage</key>
-		<string>en-US</string>
-	</dict>
-	<key>KLInfo_Workman-IO</key>
-	<dict>
-		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.workman.workman-io</string>
-		<key>TISIntendedLanguage</key>
-		<string>en-US</string>
-	</dict>
-	<key>KLInfo_Workman-P</key>
-	<dict>
-		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.workman.workman-p</string>
-		<key>TISIntendedLanguage</key>
-		<string>en-US</string>
-	</dict>
-	<key>KLInfo_Workman-P Extended</key>
-	<dict>
-		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.workman.workman-pextended</string>
 		<key>TISIntendedLanguage</key>
 		<string>en-US</string>
 	</dict>
